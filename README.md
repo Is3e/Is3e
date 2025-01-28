@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Is3e
 - 👀 I’m interested in coding, music and movies
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning react and vue
 - 😄 Pronouns: she
 
 <!---
