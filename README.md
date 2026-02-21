@@ -1,5 +1,9 @@
-# 💫 About Me:
-# Salut, moi c'est Louise ! 👋🏻<br><br>👩🏻‍💻 Je suis une développeuse web créative<br>🔭 Toujours intéressée de découvrir de nouvelles stacks ! <br>🧗🏻‍♀️ J'aime aussi dessiner, l'escalade et être avec mes amis<br>
+# Salut, moi c'est Louise ! 👋🏻
+<sub>
+👩🏻‍💻 Je suis une développeuse web créative<br>
+🔭 Toujours intéressée de découvrir de nouvelles stacks !<br>
+🧗🏻‍♀️ J'aime aussi dessiner, l'escalade et être avec mes amis
+</sub>
 
 
 ## 🌐 Socials:
