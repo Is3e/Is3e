@@ -1,9 +1,9 @@
 # Salut, moi c'est Louise ! 👋🏻
-<sub>
+<small>
 👩🏻‍💻 Je suis une développeuse web créative<br>
 🔭 Toujours intéressée de découvrir de nouvelles stacks !<br>
 🧗🏻‍♀️ J'aime aussi dessiner, l'escalade et être avec mes amis
-</sub>
+</small>
 
 
 ## 🌐 Socials:
